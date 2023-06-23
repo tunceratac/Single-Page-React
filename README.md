@@ -1,6 +1,4 @@
-# Single Page Website using React
-
-<h2> A single-page website using React framework.</h1>
+# A Single-page Website using React Framework
 
 - The webpage should be able to switch between light and dark mode using the button on the top right. 
 
